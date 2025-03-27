@@ -117,8 +117,5 @@ The dashboard includes the following components:
 
 https://github.com/user-attachments/assets/82ddf263-4026-4875-b754-b7196c77e3f6
 
-<br>
-Check Out the Live Dashboard [here](https://app.powerbi.com/links/usUAZjSUc1?ctid=3cc54fba-ae76-46dc-9e2d-7250294bedc4&pbi_source=linkShare).
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
