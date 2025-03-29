@@ -1,18 +1,8 @@
-Below is an updated GitHub README documentation for the Coffee Shop Sales Analysis Dashboard project, incorporating the dataset details from the provided document while maintaining the structure of the previous README. Specific numerical values are avoided as requested, and the dataset description has been updated to reflect the columns and sample data provided.
-
----
-
 # Coffee Shop Sales Analysis Dashboard
 
 
 ## Overview
 The Coffee Shop Sales Analysis Dashboard is a Power BI project that visualizes sales data for a local coffee shop chain. It focuses on key performance indicators (KPIs) such as total sales, total orders, and total quantity sold, with detailed breakdowns by product category, product type, store location, and sales trends over time. The dashboard is designed to help stakeholders understand sales patterns, identify top-performing products, and optimize business operations.
-
-## Problem Statement
-A local coffee shop chain aims to better understand its sales trends to enhance business performance. The chain wants to track key metrics like sales, orders, and product categories to identify opportunities for improvement and growth, specifically for the month of May 2023. The goal of this analysis is to provide insights into:
-- Sales performance by product category.
-- Sales variations across different store locations.
-- Daily and hourly sales patterns to optimize operations.
 
 
 ### DAX Forumlas
