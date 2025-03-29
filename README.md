@@ -5,6 +5,22 @@
 The Coffee Shop Sales Analysis Dashboard is a Power BI project that visualizes sales data for a local coffee shop chain. It focuses on key performance indicators (KPIs) such as total sales, total orders, and total quantity sold, with detailed breakdowns by product category, product type, store location, and sales trends over time. The dashboard is designed to help stakeholders understand sales patterns, identify top-performing products, and optimize business operations.
 
 
+## Dataset
+- **transaction_id**: Unique identifier for each transaction.
+- **transaction_date**: Date of the transaction.
+- **transaction_time**: Time of the transaction.
+- **transaction_qty**: Quantity of items sold in the transaction.
+- **store_id**: Unique identifier for the store.
+- **store_location**: Location of the store.
+- **product_id**: Unique identifier for the product.
+- **unit_price**: Price per unit of the product.
+- **product_category**: Category of the product.
+- **product_type**: Type of product within the category.
+- **product_detail**: Specific details of the product.
+
+
+
+
 ### DAX Forumlas
 - **Key Metrics and Formulas**:
   - **Total Sales**: Sum of sales revenue for the selected period.
@@ -30,22 +46,6 @@ The Coffee Shop Sales Analysis Dashboard is a Power BI project that visualizes s
         'Date Table'[Date]
       )
       ```
-
-## Dataset
-- **transaction_id**: Unique identifier for each transaction.
-- **transaction_date**: Date of the transaction.
-- **transaction_time**: Time of the transaction.
-- **transaction_qty**: Quantity of items sold in the transaction.
-- **store_id**: Unique identifier for the store.
-- **store_location**: Location of the store.
-- **product_id**: Unique identifier for the product.
-- **unit_price**: Price per unit of the product.
-- **product_category**: Category of the product.
-- **product_type**: Type of product within the category.
-- **product_detail**: Specific details of the product.
-
-
-*Note*: The dataset is not included in this repository due to privacy concerns. You can replace it with your own coffee shop sales data in a similar format.
 
 ## Prerequisites
 To use this Power BI dashboard, you need the following:
